@@ -1,0 +1,4 @@
+2022-12-24 15:05:04,079 -+- PEER3_LOGGER -+- INFO -+- Start logging
+2022-12-24 15:05:04,080 -+- PEER3_LOGGER -+- INFO -+- Network simulator activated, running at ('127.0.0.1', 35469).
+2022-12-24 15:05:04,537 -+- PEER3_LOGGER -+- DEBUG -+- Receiving a type0 pkt from ('127.0.0.1', 48001) via spiffy, seq0, ack0, pkt_len36
+2022-12-24 15:05:14,544 -+- PEER3_LOGGER -+- INFO -+- socket closed
