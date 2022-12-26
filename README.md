@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Set up your repo
 First, clone the repo from github and change the git remote tag::
 ```
@@ -90,3 +91,7 @@ Received chunkhash: 3b68110847941b84e8d05417a5b2609122a56314
 Successful received: True
 Congrats! You have completed the example!
 ```
+=======
+# CS305
+This is SUSTECH cs305 fall project
+>>>>>>> 6b4aaad2775a50755b966964e228204489f92885
